@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  padding-bottom: 80px; /* Add padding to prevent content being hidden behind the footer */
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
